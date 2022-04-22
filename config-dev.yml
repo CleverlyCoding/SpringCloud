@@ -1,2 +1,2 @@
-profiles: 傲傍傍
-lable: 老肥
+config: 
+  info: "main branch,springCloud config/config-dev.yml version=1"
